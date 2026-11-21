@@ -1,4 +1,4 @@
-# CCTV Knife Detection Dataset: free sample (synthetic CCTV, YOLO + COCO)
+# CCTV Knife Detection Dataset: free sample (CCTV, YOLO + COCO)
 
 **Synthetic CCTV images of people holding knives, with YOLO and COCO boxes: 60 free images here, 1,000 in the full dataset.**
 
@@ -109,7 +109,7 @@ The images and labels in this sample are licensed under [CC BY-NC 4.0](https://c
 ```bibtex
 @misc{simuletic_knife_2026,
   author       = {{Simuletic}},
-  title        = {CCTV Knife Detection Dataset: synthetic CCTV images with YOLO and COCO labels},
+  title        = {CCTV Knife Detection Dataset: CCTV images with YOLO and COCO labels},
   year         = {2026},
   publisher    = {Simuletic},
   howpublished = {\url{https://simuletic.com/datasets/cctv-knife-detection-dataset}},
